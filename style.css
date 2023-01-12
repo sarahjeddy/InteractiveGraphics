@@ -14,16 +14,3 @@ a {
     background-color:purple;
     border:1px solid purple;
 }
-
-#titles {
-        top: 40%;
-        position: absolute;
-        left: 35%;
-    }
-
-#mainText {
-        position: fixed;
-        width: 100%;
-        height: 800px;
-
-    }
