@@ -5,7 +5,8 @@ h1 {
   color: cyan;
 }
 p {
-  color: cyan;
+  color: darkgreen;
+  font-family: 'Courier';
 }
 a {
   display:inline-block;
