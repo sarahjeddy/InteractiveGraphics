@@ -10,3 +10,18 @@ p {
 a {
   color: purple;
 }
+
+#titles {
+        top: 50%;
+        position: absolute;
+        left: 45%;
+    }
+
+#mainText {
+        position: fixed;
+        width: 100%;
+        height: 800px;
+        background-image: url("https://ak5.picdn.net/shutterstock/videos/1011341165/thumb/1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
