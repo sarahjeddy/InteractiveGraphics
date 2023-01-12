@@ -14,3 +14,46 @@ a {
     background-color:purple;
     border:1px solid purple;
 }
+
+       .characteristics {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        font-size: 25px;
+        text-align: center;
+        border: solid;
+       position: relative;
+        display: inline-block;
+        margin: 10px;
+        padding:20px;
+        
+    }
+
+
+    #logo {
+     
+        background-color: lightblue;
+        border-color: blue;
+    }
+
+    #bouncingBall {
+       
+        background-color: #FE8D8D;
+        border-color: red;
+       
+    }
+
+    #brickBreaker {
+        
+        background-color: lavender;
+        border-color: purple;
+       
+    }
+
+    #wireframe {
+        
+        background-color: lightgreen;
+        border-color: green;
+       
+    }
+
