@@ -10,7 +10,7 @@ h1 {
   font-weight: 700; line-height: 19.5px;
 }
 p {
-  color: silver;
+  color: darkgreen;
   font-family: Courier;
   font-size: 15px;
   font-style: normal;
@@ -21,6 +21,15 @@ p {
 a {
   display:inline-block;
   color: darkgreen;
+  font-family: Courier;
+  font-size: 15px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700; line-height: 19.5px;
+}
+
+#titleText {
+  color: silver;
   font-family: Courier;
   font-size: 15px;
   font-style: normal;
