@@ -9,6 +9,7 @@ p {
 }
 a {
   display:inline-block;
+  color: purple;
 }
 
 #titles {
