@@ -6,8 +6,13 @@ h1 {
 }
 p {
   color: darkgreen;
-  font-family: 'Courier';
+  font-family: Courier;
+  font-size: 15px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700; line-height: 19.5px;
 }
+
 a {
   display:inline-block;
   color: darkgreen;
